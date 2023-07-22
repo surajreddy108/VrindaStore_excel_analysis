@@ -1,2 +1,2 @@
 # VrindaStore_excel_analysis
-I tried to use the MS Excel's EDA capability to bring out wonderful insights about the sales trend based on various factors.
+I tried to use the MS Excel's EDA capability to bring out wonderful insights about the sales trend based on various factors. First I did the data cleaning by identifying the nulls/improper data points and replacing them with appropriate values. Used concepts of Pivot tables and Charts to build a interactive dashboard to visulaize the trends and understand and conclude the insights.
